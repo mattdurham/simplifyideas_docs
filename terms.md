@@ -1,7 +1,7 @@
 
 # Simplify Idea's Terms of Service 
 
-Please read these terms of service ("terms", "terms of service") carefully before using [https://www.simplifyideas.com] website (the "service") operated by [Simplify.dev] ("us", 'we", "our").
+Please read these terms of service ("terms", "terms of service") carefully before using https://www.simplifyideas.com website (the "service") operated by Simplify.dev ("us", 'we", "our").
 
 ## Conditions of Use
 
